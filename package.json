@@ -17,6 +17,12 @@
     "node": ">=17"
   },
   "dependencies": {
+    "@headlessui/react": "^1.6.6",
+    "@types/mapbox-gl": "^1.13.4",
+    "@yext/analytics": "^0.2.0",
+    "@yext/search-headless-react": "^1.4.0",
+    "@yext/search-ui-react": "^1.0.0-beta.269",
+    "mapbox-gl": "^2.9.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
